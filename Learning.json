@@ -1,0 +1,244 @@
+{
+  "ProgrammingLanguageFundamentals": {
+    "IntroductionToJava": {
+      "description": "Basics of Java programming language."
+    },
+    "InputOutputAndDataTypes": {
+      "description": "Understanding input/output operations and data types in Java."
+    },
+    "Operators": {
+      "description": "Various operators in Java and their uses."
+    },
+    "Conditions": {
+      "description": "Conditional statements in Java."
+    },
+    "Loops": {
+      "description": "Different types of loops in Java."
+    },
+    "PatternProblems": {
+      "description": "Solving pattern-based problems using loops."
+    },
+    "Functions": {
+      "description": "Defining and using functions in Java."
+    },
+    "1DAnd2DArrays": {
+      "description": "Working with one-dimensional and two-dimensional arrays."
+    },
+    "Strings": {
+      "description": "String manipulation and methods in Java."
+    },
+    "MemoryManagement": {
+      "description": "Understanding how memory is managed in Java."
+    },
+    "BasicOOPForProblemSolving": {
+      "description": "Introduction to Object-Oriented Programming for solving problems."
+    }
+  },
+  "DataStructuresAndAlgorithms": {
+    "TimeAndSpaceComplexity": {
+      "description": "Understanding the efficiency of algorithms in terms of time and space consumption."
+    },
+    "ArrayProblemSolvingTechniques": {
+      "description": "Techniques for solving problems using arrays, including sliding window, prefix sums, and more."
+    },
+    "BitManipulation": {
+      "description": "Techniques for performing operations on binary representations of numbers."
+    },
+    "MathsForProblemSolving": {
+      "description": "Mathematical concepts and techniques used in problem-solving."
+    },
+    "Recursion": {
+      "description": "Solving problems by defining a function in terms of itself."
+    },
+    "Backtracking": {
+      "description": "A systematic way of trying out different sequences of decisions to solve a problem."
+    },
+    "Sorting": {
+      "description": "Algorithms for arranging data in a particular order."
+    },
+    "SearchingBinarySearch": {
+      "description": "Efficient algorithms for finding elements in sorted data."
+    },
+    "TwoPointers": {
+      "description": "Techniques that use two indices to solve problems on arrays and strings."
+    },
+    "Hashing": {
+      "description": "Using hash tables to store and retrieve data efficiently."
+    },
+    "StringsAndPatternMatching": {
+      "description": "Techniques for handling and matching strings, including algorithms like KMP and Rabin-Karp."
+    },
+    "DataStructures": {
+      "LinkedLists": {
+        "description": "Data structure consisting of nodes, where each node contains data and a reference to the next node."
+      },
+      "Stacks": {
+        "description": "Linear data structure which follows the Last In First Out (LIFO) principle."
+      },
+      "QueuesAndDeques": {
+        "description": "Linear data structures which follow the First In First Out (FIFO) principle and Double-Ended Queues."
+      },
+      "TreesAndBST": {
+        "description": "Hierarchical data structures with parent-child relationships and Binary Search Trees."
+      },
+      "Tries": {
+        "description": "Tree-like data structures used for storing dynamic sets of strings."
+      },
+      "Heaps": {
+        "description": "Specialized tree-based data structures which satisfy the heap property."
+      }
+    },
+    "AdvancedProblemSolvingTechniques": {
+      "Greedy": {
+        "description": "Algorithms that make locally optimal choices at each step with the hope of finding the global optimum."
+      },
+      "DynamicProgramming": {
+        "description": "Method for solving complex problems by breaking them down into simpler subproblems."
+      },
+      "Graphs": {
+        "description": "Data structures used to model pairwise relations between objects."
+      }
+    }
+  },
+  "SQL": {
+    "RelationalModel": {
+      "description": "Understanding the relational database model, which organizes data into tables with rows and columns."
+    },
+    "CRUD": {
+      "description": "Basic operations for manipulating data in a database: Create, Read, Update, and Delete."
+    },
+    "Joins": {
+      "description": "Combining rows from two or more tables based on related columns."
+    },
+    "Aggregation": {
+      "description": "Using functions like COUNT, SUM, AVG, MAX, and MIN to perform calculations on multiple rows of a table."
+    },
+    "Subqueries": {
+      "description": "Nested queries within a larger query to perform complex operations."
+    },
+    "Views": {
+      "description": "Virtual tables created by querying data from one or more tables."
+    },
+    "Transactions": {
+      "description": "A sequence of database operations that are treated as a single unit of work, ensuring data integrity."
+    },
+    "Indexing": {
+      "description": "Creating indexes to improve the speed of data retrieval operations on a database table."
+    }
+  },
+  "FullstackEngineering": {
+    "HTMLCSSJavaScript": {
+      "description": "Fundamentals of HTML, CSS, and JavaScript for building web pages."
+    },
+    "AdvancedHTMLCSSCaseStudies": {
+      "description": "In-depth examples and case studies demonstrating advanced HTML and CSS techniques."
+    },
+    "AdvancedJSConceptsOOPConcurrencyAndPopularInterviewQuestions": {
+      "description": "Advanced JavaScript concepts including Object-Oriented Programming and Concurrency, along with popular interview questions."
+    },
+    "JSForWebDevDOMManipulationEventHandling": {
+      "description": "Using JavaScript for web development, focusing on DOM manipulation and event handling."
+    },
+    "DesignPatterns": {
+      "description": "Common design patterns used in software development."
+    },
+    "Git": {
+      "description": "Version control using Git."
+    },
+    "React": {
+      "description": "Building user interfaces with React."
+    },
+    "Redux": {
+      "description": "Managing application state with Redux."
+    },
+    "HowInternetWorksTCPUDPHTTPLayeringArchitecture": {
+      "description": "Understanding the workings of the internet, including TCP, UDP, HTTP, and layering architecture."
+    },
+    "APIDesign": {
+      "description": "Designing robust APIs."
+    },
+    "Deployment": {
+      "description": "Deploying applications to production environments."
+    },
+    "FrontendLLDAndMachineCodingCaseStudies": {
+      "description": "Low-level design and machine coding case studies for frontend development."
+    },
+    "Testing": {
+      "description": "Testing methodologies and tools for ensuring software quality."
+    },
+    "MongoDB": {
+      "description": "Working with MongoDB, a NoSQL database."
+    },
+    "NodeJS": {
+      "description": "Building backend services with Node.js."
+    },
+    "ExpressJS": {
+      "description": "Using Express.js for backend development."
+    },
+    "BackendArchitecture": {
+      "description": "Designing the architecture of backend systems."
+    },
+    "CapstoneProjects": {
+      "description": "Comprehensive projects to apply fullstack engineering skills."
+    }
+  },
+  "BackendEngineering": {
+    "OOP": {
+      "description": "Object-Oriented Programming principles."
+    },
+    "Multithreading": {
+      "description": "Concurrency and multithreading in software development."
+    },
+    "AdvLangConceptsAndPopularInterviewQuestions": {
+      "description": "Advanced language concepts and popular interview questions."
+    },
+    "SOLID": {
+      "description": "SOLID principles of object-oriented design."
+    },
+    "DesignPatterns": {
+      "description": "Common design patterns used in software development."
+    },
+    "UMLDiagrams": {
+      "description": "Using UML diagrams to design and document software systems."
+    },
+    "SchemaDesign": {
+      "description": "Designing database schemas."
+    },
+    "HowInternetWorksTCPUDPHTTPLayeringArchitecture": {
+      "description": "Understanding the workings of the internet, including TCP, UDP, HTTP, and layering architecture."
+    },
+    "APIDesign": {
+      "description": "Designing robust APIs."
+    },
+    "MVC": {
+      "description": "Model-View-Controller architecture for software design."
+    },
+    "BackendLLDAndMachineCodingCaseStudies": {
+      "description": "Low-level design and machine coding case studies for backend development."
+    },
+    "UnitTesting": {
+      "description": "Writing unit tests to ensure code quality."
+    },
+    "ORM": {
+      "description": "Object-Relational Mapping for database interaction."
+    },
+    "Deployment": {
+      "description": "Deploying applications to production environments."
+    },
+    "Git": {
+      "description": "Version control using Git."
+    },
+    "SpringBoot": {
+      "description": "Building backend services with Spring Boot."
+    },
+    "ProjectInterviewQuestionsSpringHibernate": {
+      "description": "Common interview questions related to projects using Spring and Hibernate."
+    },
+    "CapstoneProjects": {
+      "description": "Comprehensive projects to apply backend engineering skills, including implementing advanced features like payment APIs."
+    }
+  },
+  "AdditionalTopics": {
+    "IntroductionToScaleAndScalingTechniques": {
+      "description": "Understanding the principles of scaling applications and various techniques to achieve scalability."
+   
