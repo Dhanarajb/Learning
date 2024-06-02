@@ -241,4 +241,115 @@
   "AdditionalTopics": {
     "IntroductionToScaleAndScalingTechniques": {
       "description": "Understanding the principles of scaling applications and various techniques to achieve scalability."
-   
+       },
+    "ConsistentHashing": {
+      "description": "Understanding consistent hashing for distributing data across multiple servers."
+    },
+    "Caching": {
+      "description": "Techniques for improving application performance by temporarily storing data."
+    },
+    "CAPTheorem": {
+      "description": "Exploring the CAP theorem and its implications for distributed systems."
+    },
+    "DistributedSystemsAndDatabases": {
+      "description": "Design and implementation of distributed systems and databases."
+    },
+    "SQLAndNoSQL": {
+      "description": "Comparing SQL and NoSQL databases and their use cases."
+    },
+    "Scalability": {
+      "description": "Techniques for designing scalable systems."
+    },
+    "ZookeeperKafka": {
+      "description": "Using Zookeeper and Kafka for distributed coordination and messaging."
+    },
+    "LocationBasedServices": {
+      "description": "Implementing location-based services using S3 and Quad Trees."
+    },
+    "Microservices": {
+      "description": "Designing and implementing microservice architectures."
+    },
+    "CaseStudies": {
+      "description": "Real-world case studies to illustrate system design principles."
+    },
+    "BuildingEfficientDataProcessingSystems": {
+      "description": "Designing and building efficient data processing systems."
+    },
+    "AdvancedSQL": {
+      "description": "In-depth knowledge of advanced SQL queries and techniques."
+    },
+    "CloudServices": {
+      "description": "Using cloud services like AWS or GCP for data engineering."
+    },
+    "DevelopingETLPipelines": {
+      "description": "Building ETL pipelines for data processing."
+    },
+    "MapReduceFramework": {
+      "description": "Using the Map-Reduce framework for big data processing."
+    },
+    "BigData": {
+      "description": "Handling and processing large datasets."
+    },
+    "DataWarehousingAndModelling": {
+      "description": "Designing data warehouses and data models."
+    },
+    "OLAPDashboarding": {
+      "description": "Online Analytical Processing and creating dashboards."
+    },
+    "WorkflowOrchestration": {
+      "description": "Orchestrating workflows for data processing."
+    },
+    "LoggingAndMonitoring": {
+      "description": "Implementing logging and monitoring for data systems."
+    },
+    "MapReduceHiveQLPresto": {
+      "description": "Using MapReduce, HiveQL, and Presto for data querying."
+    },
+    "Projects": {
+      "description": "Hands-on projects to apply data engineering skills."
+    },
+    "CombinatoricsAndProbability": {
+      "description": "Advanced combinatorics and probability for problem-solving."
+    },
+    "MatrixExponentiation": {
+      "description": "Using matrix exponentiation for solving problems efficiently."
+    },
+    "AdvancedTrees": {
+      "description": "Working with advanced tree structures like Segment Tree and k-D Tree."
+    },
+    "DisjointSetUnion": {
+      "description": "Using Disjoint Set Union for solving connectivity problems."
+    },
+    "AdvancedDynamicProgramming": {
+      "description": "Techniques for solving complex problems using dynamic programming."
+    },
+    "AdvancedGraphs": {
+      "description": "Working with advanced graph algorithms like Bridges, Articulation points, and Network Flow."
+    },
+    "IntroductionToProductManagement": {
+      "description": "Basics of product management for engineers."
+    },
+    "ProductThinkingAndProductDiscovery": {
+      "description": "Developing a product mindset and discovering product opportunities."
+    },
+    "ProductRoadmapAndPrioritization": {
+      "description": "Creating and prioritizing product roadmaps."
+    },
+    "MentalModelsForProductManagers": {
+      "description": "Mental models and frameworks for effective product management."
+    },
+    "ProductAnalytics": {
+      "description": "Using analytics to inform product decisions."
+    },
+    "HandsOnCaseStudyAndMixpanelSession": {
+      "description": "Practical case studies and sessions with Mixpanel."
+    },
+    "DeliveryAndProjectManagement": {
+      "description": "Managing product delivery and projects."
+    },
+    "PracticalWaysToApplyPMLessonsAsAnEngineer": {
+      "description": "Applying product management lessons in engineering roles."
+    }
+  }
+}
+
